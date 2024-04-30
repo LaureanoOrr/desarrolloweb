@@ -1,0 +1,9 @@
+ul li a{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+ul li {
+    list-style-type: armenian;
+    color: blue;
+}
