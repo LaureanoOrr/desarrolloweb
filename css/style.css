@@ -1,9 +1,21 @@
 ul li a{
     color: red;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
+    font-style: italic;
+    text-decoration: none;
+    font-family: "Jersey 15", sans-serif;
+    font-weight: 999;
+    font-style: normal;
+    font-size:xx-large;
+}  
 
 ul li {
     list-style-type: armenian;
     color: blue;
+}
+
+#bobcholo {
+    background-image: url("../imgs/bobcholo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
